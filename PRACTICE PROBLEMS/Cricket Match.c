@@ -1,4 +1,6 @@
-/*There is a cricket match in Chefland. Chef's team requires 
+/*
+CODECHEF-Q1
+There is a cricket match in Chefland. Chef's team requires 
 �
 N runs to win in 
 �
